@@ -1,6 +1,6 @@
 # Enhanced Friend Recommendation (PySpark)
 
-PySpark 实验代码，用于在 Hadoop/Spark 上实现基于共同好友的好友推荐。算法与实验细节见 `/Users/qiu/Downloads/big_data_final.pdf`，本仓库用于复现和提交到 GitHub 的代码与示例数据。
+PySpark 实验代码，用于在 Hadoop/Spark 上实现基于共同好友的好友推荐。算法与实验细节见实验报告，本仓库用于复现和提交到 GitHub 的代码与示例数据。
 
 ## 代码结构
 - `src/friend_recommend_enhanced.py`：核心 PySpark 作业，包含度数统计和 Top-N 推荐两个 Job。
